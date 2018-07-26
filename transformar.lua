@@ -32,6 +32,27 @@ local config = {
 [29] = { 400, 30, 1709, 208},
 [30] = { 500, 31, 2179, 208},
 [31] = { 700, 32, 1710, 208},
+  
+  
+  -- KISAME--
+[47] = { 100, 48, 2356, 208},
+[48] = { 200, 49, 2357, 208},
+[49] = { 400, 50, 2359, 208},
+[50] = { 500, 51, 2360, 208},
+[51] = { 700, 52, 1857, 208},
+  
+    -- KILLER BEE
+[53] = { 100, 48, 2230, 208},
+[54] = { 200, 49, 2231, 208},
+[55] = { 400, 50, 2232, 208},
+[56] = { 500, 51, 2233, 208},
+[57] = { 500, 51, 2234, 208},
+[58] = { 500, 51, 2235, 208},
+[59] = { 500, 51, 2236, 208},
+[60] = { 500, 51, 2237, 208},
+[61] = { 500, 51, 2238, 208},
+[62] = { 500, 51, 2239, 208},
+[63] = { 700, 64, 983, 208},
 
 
 }
@@ -41,15 +62,15 @@ local voc = config[getPlayerVocation(cid)]
 if voc then
 if getPlayerLevel(cid) >= voc[1] then
 doPlayerSetVocation(cid, voc[2])
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_WARNING, "Você Transformou!")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_WARNING, "VocÃª Transformou!")
 local outfit = {lookType = voc[3]}
 doCreatureChangeOutfit(cid, outfit)
 doSendMagicEffect(getCreaturePosition(cid), voc[4])
 else
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_WARNING, "Você precisa estar no level " .. voc[1] .. " para transformar.")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_WARNING, "VocÃª precisa estar no level " .. voc[1] .. " para transformar.")
 end
 else
-doPlayerSendCancel(cid, "Você não pode se Transformar!")
+doPlayerSendCancel(cid, "VocÃª nÃ£o pode se Transformar!")
 end
 return true
 end
