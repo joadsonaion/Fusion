@@ -44,33 +44,25 @@ local config = {
     -- KILLER BEE
 [53] = { 100, 48, 2230, 208},
 [54] = { 200, 49, 2231, 208},
-[55] = { 400, 50, 2232, 208},
-[56] = { 500, 51, 2233, 208},
-[57] = { 500, 51, 2234, 208},
-[58] = { 500, 51, 2235, 208},
-[59] = { 500, 51, 2236, 208},
+[55] = { 250, 50, 2232, 208},
+[56] = { 300, 51, 2233, 208},
+[57] = { 350, 51, 2234, 208},
+[58] = { 400 51, 2235, 208},
+[59] = { 450, 1, 2236, 208},
 [60] = { 500, 51, 2237, 208},
-[61] = { 500, 51, 2238, 208},
-[62] = { 500, 51, 2239, 208},
+[61] = { 550, 51, 2238, 208},
+[62] = { 600, 51, 2239, 208},
 [63] = { 700, 64, 983, 208},
+  
+      -- NEJI
+[65] = { 100, 66, 2208, 208},
+[66] = { 200, 67, 2209, 208},
+[67] = { 250, 68, 2210, 208},
+[68] = { 300, 69, 2211, 208},
+[69] = { 400, 70, 2212, 208},
+[70] = { 500, 71, 2213, 208},
+[71] = { 600, 72, 2214, 208},
+[72] = { 700, 73, 2215, 208},
 
 
 }
-function onSay(cid, words, param, channel)
-
-local voc = config[getPlayerVocation(cid)]
-if voc then
-if getPlayerLevel(cid) >= voc[1] then
-doPlayerSetVocation(cid, voc[2])
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_WARNING, "Você Transformou!")
-local outfit = {lookType = voc[3]}
-doCreatureChangeOutfit(cid, outfit)
-doSendMagicEffect(getCreaturePosition(cid), voc[4])
-else
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_WARNING, "Você precisa estar no level " .. voc[1] .. " para transformar.")
-end
-else
-doPlayerSendCancel(cid, "Você não pode se Transformar!")
-end
-return true
-end
