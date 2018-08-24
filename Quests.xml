@@ -1,0 +1,142 @@
+GLACIER SET
+
+doPlayerSendTextMessage(cid,22,"Voce conseguiu High Glacier SET!")
+doPlayerAddItem(cid,13918,1)
+doPlayerAddItem(cid,13919,1)
+doPlayerAddItem(cid,13920,1)
+doPlayerAddItem(cid,13921,1)
+
+HUNTER SET
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Hunter's SET!")
+doPlayerAddItem(cid,13933,1)
+doPlayerAddItem(cid,13934,1)
+doPlayerAddItem(cid,13935,1)
+doPlayerAddItem(cid,13936,1)
+
+FROZEN SET
+doPlayerSendTextMessage(cid,22,"Voce conseguiu High Frozen SET!")
+doPlayerAddItem(cid,13923,1)
+doPlayerAddItem(cid,13924,1)
+doPlayerAddItem(cid,13925,1)
+doPlayerAddItem(cid,13926,1)
+
+MAGMAS SET
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Magma's SET!")
+doPlayerAddItem(cid,13928,1)
+doPlayerAddItem(cid,13929,1)
+doPlayerAddItem(cid,13930,1)
+doPlayerAddItem(cid,13931,1)
+
+FIRE SET
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Fire's SET!")
+doPlayerAddItem(cid,13913,1)
+doPlayerAddItem(cid,13914,1)
+doPlayerAddItem(cid,13915,1)
+doPlayerAddItem(cid,13916,1)
+
+FIRE SHIELD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Fire's Shield")
+doPlayerAddItem(cid,13917,1)
+
+GLACIER SHIELD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu High Glacier Shield")
+doPlayerAddItem(cid,13922,1)
+
+FROZEN SHIELD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu High Frozen Shield")
+doPlayerAddItem(cid,13927,1)
+
+MAGMAS SHIELD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Magma's Shield")
+doPlayerAddItem(cid,13932,1)
+
+HUNTER SHIELD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Fire's Shield")
+doPlayerAddItem(cid,13937,1)
+
+
+
+FROZZEN STAFF
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Frozen Staff")
+doPlayerAddItem(cid,13908,1)
+
+MAGIC STAFF
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Magic Staff")
+doPlayerAddItem(cid,13909,1)
+
+MOON STAFF
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Moon Staff")
+doPlayerAddItem(cid,13910,1)
+
+DARKNESS STAFF
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Dakrness Staff")
+doPlayerAddItem(cid,13911,1)
+
+FIRE STAFF
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Fire Staff")
+doPlayerAddItem(cid,13912,1)
+
+GREEN GLOVES
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Green Gloves")
+doPlayerAddItem(cid,13903,1)
+
+YELLOW GLOVES
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Yellow Gloves")
+doPlayerAddItem(cid,13904,1)
+
+ORAGE GLOVES
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Orange Gloves")
+doPlayerAddItem(cid,13905,1)
+
+POWER GLOVES
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Power Gloves")
+doPlayerAddItem(cid,13906,1)
+
+BLUE GLOVES
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Blue Gloves")
+doPlayerAddItem(cid,13907,1)
+
+POWER SWORD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Power Sword")
+doPlayerAddItem(cid,13898,1)
+
+BLUE SWORD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Blue Sword")
+doPlayerAddItem(cid,13899,1)
+
+YELLOW SWORD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Yellow Sword")
+doPlayerAddItem(cid,13900,1)
+
+VOLTSGE SWORD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Voltage Sword")
+doPlayerAddItem(cid,13901,1)
+
+HONROR SWORD
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Honror Sword")
+doPlayerAddItem(cid,13902,1)
+
+INFINITY MAKANKO
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Infinity Makanko")
+doPlayerAddItem(cid,13996,1)
+doPlayerAddItem(cid,13997,1)
+
+GATILING MAKANKO
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Gatiling Makanko")
+doPlayerAddItem(cid,13998,1)
+doPlayerAddItem(cid,13999,1)
+
+BUBBLE MAKANKO
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Bubble Makanko")
+doPlayerAddItem(cid,14000,1)
+doPlayerAddItem(cid,14001,1)
+
+FORCE MAKANKO
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Force Makanko")
+doPlayerAddItem(cid,14002,1)
+doPlayerAddItem(cid,14003,1)
+
+FIERCE MAKANKO
+doPlayerSendTextMessage(cid,22,"Voce conseguiu Fierce Makanko")
+doPlayerAddItem(cid,14004,1)
+doPlayerAddItem(cid,14005,1)
