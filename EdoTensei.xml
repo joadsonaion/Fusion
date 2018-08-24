@@ -1,0 +1,81 @@
+Crie um novo item com essa linha ;
+	<item id="4856" article="an" name="edo pergaminho">
+		<attribute key="description" value="Neste pergaminho foi selado um [VAZIO]" />
+		<attribute key="weight" value="7000" />
+	</item>
+  
+  Agora vamos a spell para criar o pergaminho ;
+
+XML ; 
+	<instant name="Edo Tensei" words="edo tensen no jutsu" lvl="55" mana="770" prem="1" exhaustion="2000" needlearn="0" event="script" value="edopergaminho">
+	</instant>
+  
+  
+      2﻿. Script ;
+
+local id = 4856 -- Id﻿ do edo pergaminho
+local count = 1 --  Quantos pergaminhos serão adiciondos ao usar o comando
+
+function onCastSpell(cid, var)
+
+doPlayerAddItem(cid, id, count)
+doPlayerSendTextMessage(cid, 18, "Voce recebeu um pergaminho EDO")
+﻿
+ 
+ Agora , em ACTIONS, adicione essas 2 scri﻿﻿pts
+
+
+local voc = {1, 2} -- ID das vocações que poderão usar o Pergaminho.
+
+local corpse = {2806}
+local id = 2194 -- Id do edo pergaminho
+
+local edo = {
+ 
+                ["[Edo Tensei] Madara"] = {hp = 50000, maxhp = 50000, corpse = 2806, chance = 100}, -- Nome do Edo, HP do Edo quando summoned, max hp do edo , corpo do edo, chance de falhar.
+}
+
+function onUse(cid, item, frompos, item2, topos)
+
+if(not(isInArray(voc, getPlayerVocation(cid)))) then
+
+return doPlayerSendTextMessage(cid, 25, "Voce nao tem a vocacao nescessaria")
+
+end
+
+
+if(not(isInArray(corpse, item2.itemid))) then
+
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, "voce precisa usar o pergaminho em um corpse")
+
+doSendMagicEffect(pos, CONST_ME_POFF)
+
+return true
+
+end
+
+local perga = doPlayerAddItem(cid, id, 1)
+
+                for edo_tensei, v in pairs(edo) do
+                
+                                if item2.itemid == v.corpse then
+                                        if math.random(0,100) <= v.chance then
+doSendMagicEffect(topos, CONST_ME_POFF)
+                                                doPlayerSendTextMessage(cid, 27, "".. edo_tensei .. " foi selado nesse pergaminho.")
+                                                doRemoveItem(item.uid, 1)
+                                                doRemoveItem(item2.uid, 1)
+                                                doItemSetAttribute(perga, "namepet", edo_tensei)
+                                                doItemSetAttribute(perga, "description", "Neste pergaminho foi selado um ".. edo_tensei ..".")
+                                                doItemSetAttribute(perga, "lifepet", v.hp)
+                                                doItemSetAttribute(perga, "maxlifepet", v.maxhp)
+                                        else
+                                                doPlayerSendTextMessage(cid, 27, "O pergaminho falhou")
+                                        end
+                                end
+                end
+                return true
+end
+
+Em seguida , adicione os XML﻿﻿
+<action itemid="4856" event="script" value="vai.lua"/>
+<action itemid="4856" event="script" value="pega.lua"/>
