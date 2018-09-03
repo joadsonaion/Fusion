@@ -53,6 +53,26 @@ setConditionParam(misto2, CONDITION_PARAM_TICKS, -1)
 setConditionParam(misto2 CONDITION_PARAM_SKILL_AXE, 50)
 setConditionParam(misto2, CONDITION_PARAM_SKILL_DISTANCE, 50)
 
+local misto3 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(misto3, CONDITION_PARAM_TICKS, -1)
+setConditionParam(misto3 CONDITION_PARAM_SKILL_SWORD, 50)
+setConditionParam(misto3, CONDITION_PARAM_SKILL_DISTANCE, 50)
+
+local gloves4 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(gloves4, CONDITION_PARAM_TICKS, -1)
+setConditionParam(gloves4, CONDITION_PARAM_SKILL_AXE, 100)
+setConditionParam(gloves4, CONDITION_PARAM_STAT_MAGICLEVEL, 100)
+
+local distace4 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(distace4, CONDITION_PARAM_TICKS, -1)
+setConditionParam(distace4, CONDITION_PARAM_SKILL_DISTANCE, 70)
+setConditionParam(distace4, CONDITION_PARAM_STAT_MAGICLEVEL, 70)
+
+local sword4 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(sword4, CONDITION_PARAM_TICKS, -1)
+setConditionParam(sword4, CONDITION_PARAM_SKILL_SWORD, 70)
+setConditionParam(sword4, CONDITION_PARAM_STAT_MAGICLEVEL, 70)
+
 
 --- CONDITION_PARAM_STAT_MAXHEALTH, CONDITION_PARAM_STAT_MAXMANA
 --- CONDITION_PARAM_BUFF
@@ -71,7 +91,7 @@ outfitBonusTable = { --- [] = {condition = , typ = }
  [1699] = {condition = sword},
  [1053] = {condition = sword},
  [800] = {condition = sword},
- [803] = {condition = sword},
+ [803] = {condition = sword4},
 
 -- [1835] = {condition = sword},
 -- [1835] = {condition = sword},
