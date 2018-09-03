@@ -73,6 +73,56 @@ setConditionParam(sword4, CONDITION_PARAM_TICKS, -1)
 setConditionParam(sword4, CONDITION_PARAM_SKILL_SWORD, 70)
 setConditionParam(sword4, CONDITION_PARAM_STAT_MAGICLEVEL, 70)
 
+local sword5 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(sword5, CONDITION_PARAM_TICKS, -1)
+setConditionParam(sword5, CONDITION_PARAM_SKILL_SWORD, 70)
+setConditionParam(sword5, CONDITION_PARAM_STAT_MAGICLEVEL, 70)
+
+local gloves5= createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(gloves5, CONDITION_PARAM_TICKS, -1)
+setConditionParam(gloves5, CONDITION_PARAM_SKILL_AXE, 70)
+setConditionParam(gloves5, CONDITION_PARAM_STAT_MAGICLEVEL, 70)
+
+local distace5 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(distace5, CONDITION_PARAM_TICKS, -1)
+setConditionParam(distace5, CONDITION_PARAM_SKILL_DISTANCE, 70)
+setConditionParam(distace5, CONDITION_PARAM_STAT_MAGICLEVEL, 70)
+
+local sword6 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(sword6, CONDITION_PARAM_TICKS, -1)
+setConditionParam(sword6, CONDITION_PARAM_SKILL_SWORD, 50)
+setConditionParam(sword6, CONDITION_PARAM_STAT_MAGICLEVEL, 50)
+
+local sword7 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(sword7, CONDITION_PARAM_TICKS, -1)
+setConditionParam(sword7, CONDITION_PARAM_SKILL_SWORD, 70)
+setConditionParam(sword7, CONDITION_PARAM_STAT_MAGICLEVEL, 70)
+
+local distace6 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(distace6, CONDITION_PARAM_TICKS, -1)
+setConditionParam(distace6, CONDITION_PARAM_SKILL_DISTANCE, 50)
+setConditionParam(distace6, CONDITION_PARAM_STAT_MAGICLEVEL, 50)
+
+local sword8 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(sword8, CONDITION_PARAM_TICKS, -1)
+setConditionParam(sword8, CONDITION_PARAM_SKILL_SWORD, 50)
+setConditionParam(sword8, CONDITION_PARAM_STAT_MAGICLEVEL, 50)
+
+local sword9 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(sword9, CONDITION_PARAM_TICKS, -1)
+setConditionParam(sword9, CONDITION_PARAM_SKILL_SWORD, 100)
+setConditionParam(sword9, CONDITION_PARAM_STAT_MAGICLEVEL, 100)
+
+local distace7 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(distace7, CONDITION_PARAM_TICKS, -1)
+setConditionParam(distace7, CONDITION_PARAM_SKILL_DISTANCE, 100)
+setConditionParam(distace7, CONDITION_PARAM_STAT_MAGICLEVEL, 100)
+
+local distace8 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(distace8, CONDITION_PARAM_TICKS, -1)
+setConditionParam(distace8, CONDITION_PARAM_SKILL_DISTANCE, 100)
+setConditionParam(distace8, CONDITION_PARAM_STAT_MAGICLEVEL, 100)
+
 
 --- CONDITION_PARAM_STAT_MAXHEALTH, CONDITION_PARAM_STAT_MAXMANA
 --- CONDITION_PARAM_BUFF
