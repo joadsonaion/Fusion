@@ -3,16 +3,57 @@ setConditionParam(sword, CONDITION_PARAM_TICKS, -1)
 setConditionParam(sword, CONDITION_PARAM_SKILL_SWORD, 30)
 setConditionParam(sword, CONDITION_PARAM_STAT_MAGICLEVEL, 30)
 
+local gloves = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(gloves, CONDITION_PARAM_TICKS, -1)
+setConditionParam(gloves, CONDITION_PARAM_SKILL_AXE, 30)
+setConditionParam(gloves, CONDITION_PARAM_STAT_MAGICLEVEL, 30)
+
+local gloves2 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(gloves2, CONDITION_PARAM_TICKS, -1)
+setConditionParam(gloves2, CONDITION_PARAM_SKILL_AXE, 15)
+setConditionParam(gloves2, CONDITION_PARAM_STAT_MAGICLEVEL, 15)
+
 local distace = createConditionObject(CONDITION_ATTRIBUTES)
 setConditionParam(distace, CONDITION_PARAM_TICKS, -1)
 setConditionParam(distace, CONDITION_PARAM_SKILL_DISTANCE, 30)
 setConditionParam(distace, CONDITION_PARAM_STAT_MAGICLEVEL, 30)
 
-local gloves = createConditionObject(CONDITION_ATTRIBUTES)
-setConditionParam(gloves, CONDITION_PARAM_TICKS, -1)
-setConditionParam(gloves, CONDITION_PARAM_SKILL_AXE, 30)
-setConditionParam(gloves, CONDITION_PARAM_STAT_MAGICLEVEL, 30)
- 
+local sword2 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(sword2, CONDITION_PARAM_TICKS, -1)
+setConditionParam(sword2, CONDITION_PARAM_SKILL_SWORD, 15)
+setConditionParam(sword2, CONDITION_PARAM_STAT_MAGICLEVEL, 15)
+
+local distace2 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(distace2, CONDITION_PARAM_TICKS, -1)
+setConditionParam(distace2, CONDITION_PARAM_SKILL_DISTANCE, 15)
+setConditionParam(distace2, CONDITION_PARAM_STAT_MAGICLEVEL, 15)
+
+local sword3 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(sword3, CONDITION_PARAM_TICKS, -1)
+setConditionParam(sword3, CONDITION_PARAM_SKILL_SWORD, 50)
+setConditionParam(sword3, CONDITION_PARAM_STAT_MAGICLEVEL, 50)
+
+local gloves3 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(gloves3, CONDITION_PARAM_TICKS, -1)
+setConditionParam(gloves3, CONDITION_PARAM_SKILL_AXE, 50)
+setConditionParam(gloves3, CONDITION_PARAM_STAT_MAGICLEVEL, 50)
+
+local distace3 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(distace3, CONDITION_PARAM_TICKS, -1)
+setConditionParam(distace3, CONDITION_PARAM_SKILL_DISTANCE, 70)
+setConditionParam(distace3, CONDITION_PARAM_STAT_MAGICLEVEL, 50)
+
+local misto = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(misto, CONDITION_PARAM_TICKS, -1)
+setConditionParam(misto CONDITION_PARAM_SKILL_SWORD, 100)
+setConditionParam(misto, CONDITION_PARAM_SKILL_DISTANCE, 100)
+
+local misto2 = createConditionObject(CONDITION_ATTRIBUTES)
+setConditionParam(misto2, CONDITION_PARAM_TICKS, -1)
+setConditionParam(misto2 CONDITION_PARAM_SKILL_AXE, 50)
+setConditionParam(misto2, CONDITION_PARAM_SKILL_DISTANCE, 50)
+
+
 --- CONDITION_PARAM_STAT_MAXHEALTH, CONDITION_PARAM_STAT_MAXMANA
 --- CONDITION_PARAM_BUFF
 outfitBonusTable = { --- [] = {condition = , typ = }
