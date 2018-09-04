@@ -6,178 +6,121 @@
     </outfit>
 
 <outfit id="2" storageId="223302" storageValue="1" >
-        <list gender="0-3" addons="0" requeriment="none" lookType="1700" name="Ramush Policial">
-		<stats magLevel="30"/>
-		<skills sword="30"/>
-		</list>
+        <list gender="0-3" addons="0" requeriment="none" lookType="1700" name="Ramush Policial"/>
     </outfit>
 
 
 <outfit id="3" storageId="223303" storageValue="1" >
         <list gender="0-3" addons="0" requeriment="none" lookType="1701" name="Raposa Cozinheira">
-		<stats magLevel="30"/>
-		<skills sword="30"/>
-		</list>
     </outfit>
 
 
 <outfit id="4" storageId="223304" storageValue="1" >
         <list gender="0-3" lookType="1702" name="Whiss Senju"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="5" storageId="223305" storageValue="1" >
         <list gender="0-3" lookType="1703" name="Akatsuki"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="6" storageId="223306" storageValue="1" >
         <list gender="0-3" lookType="1704" name="Master Rochi"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="7" storageId="223307" storageValue="1" >
         <list gender="0-3" lookType="1688" name="Tenshinhan Kenpachi"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="8" storageId="223308" storageValue="1" >
         <list gender="0-3" lookType="1689" name="Abobora LGBT"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="9" storageId="223309" storageValue="1" >
         <list gender="0-3" lookType="1690" name="One Punch Man"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="10" storageId="223310" storageValue="1" >
         <list gender="0-3" lookType="1694" name="BroHulk"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="11" storageId="223311" storageValue="1" >
         <list gender="0-3" lookType="1698" name="Cidra Policial"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="12" storageId="223312" storageValue="1" >
         <list gender="0-3" lookType="1699" name="Arak Policial"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="13" storageId="223313" storageValue="1" >
         <list gender="0-3" lookType="1053" name="Goku SSJ5"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="14" storageId="223314" storageValue="1" >
         <list gender="0-3" lookType="800" name="Natsu"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
 
 <outfit id="15" storageId="223315" storageValue="1" >
         <list gender="0-3" lookType="803" name="Meliodas"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
     </outfit>
 
-<outfit id="16" storageId="223316" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
-    </outfit>
+<!--<outfit id="16" storageId="223316" storageValue="1" >
+        <list gender="0-3" lookType="" name="Byakuya"/>
+    </outfit>-->
 
 
 <outfit id="17" storageId="223317" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
+        <list gender="0-3" lookType="1936" name=Ginjou"/>
     </outfit>
 
 
 <outfit id="18" storageId="223318" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
+        <list gender="0-3" lookType="1935" name="Renji"/>
     </outfit>
 
 
 <outfit id="19" storageId="223319" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
+        <list gender="0-3" lookType="1933" name="Rukia"/>
     </outfit>
 
 
 <outfit id="20" storageId="223320" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
+        <list gender="0-3" lookType="1932" name="Tensa Zangetsu"/>
     </outfit>
 
 
 <outfit id="21" storageId="223321" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
+        <list gender="0-3" lookType="1934" name="Uryu"/>
     </outfit>
 
 
 <outfit id="22" storageId="223322" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
+        <list gender="0-3" lookType="1938" name="Vasto Lord"/>
     </outfit>
 
 
-<outfit id="23" storageId="223323" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
-    </outfit>
+<--<outfit id="23" storageId="223323" storageValue="1" >
+        <list gender="0-3" lookType="1939" name="Yamamoto"/>
+    </outfit>-->
 
 
 <outfit id="24" storageId="223324" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
+        <list gender="0-3" lookType="1937" name="Zaraki"/>
     </outfit>
 
 
 <outfit id="25" storageId="223325" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
-    </outfit>
-
-
-<outfit id="26" storageId="223326" storageValue="1" >
-        <list gender="0-3" lookType="1835" name="Guarda Real"/>
-		<stats magLevel="30"/>
-		<skills sword="30"/>
+        <list gender="0-3" lookType="1835" name="Aizen"/>
     </outfit>
 
 
