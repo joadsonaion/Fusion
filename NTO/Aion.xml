@@ -1,0 +1,122 @@
+	<!-- Enchanted Power SET -->
+	
+	<item id="14451" article="a" name="Enchanted Power Helmet">
+		<attribute key="description" value="Health/Ki Regeneration +3000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="125" />
+		<attribute key="healthGain" value="3000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="3000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="15" />
+		<attribute key="slotType" value="head" />
+	</item>
+	
+	<item id="14451" article="a" name="Enchanted Power Armor">
+		<attribute key="description" value="Health/Ki Regeneration +3000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="125" />
+		<attribute key="healthGain" value="7000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="7000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="20" />
+		<attribute key="skillAxe" value="10" />
+		<attribute key="skillSword" value="20" />
+		<attribute key="skillClub" value="20" />
+		<attribute key="skillDist" value="20" />
+		<attribute key="skillShield" value="10" />
+		<attribute key="slotType" value="body" />
+	</item>
+	
+	<item id="14451" article="a" name="Enchanted Power Legs">
+		<attribute key="description" value="Health/Ki Regeneration +3000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="125" />
+		<attribute key="healthGain" value="5000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="5000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="15" />
+		<attribute key="skillAxe" value="15" />
+		<attribute key="skillSword" value="15" />
+		<attribute key="skillClub" value="15" />
+		<attribute key="skillDist" value="15" />
+		<attribute key="skillShield" value="10" />
+		<attribute key="slotType" value="legs" />
+	</item>
+	
+	<item id="14451" article="a" name="Enchanted Power Boots">
+		<attribute key="description" value="Health/Ki Regeneration +3000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="125" />
+		<attribute key="healthGain" value="4000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="4000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="15" />
+		<attribute key="slotType" value="feet" />
+	</item>
+	
+	
+	
+	
+	<!-- Enchanted Tanker SET -->
+	
+	<item id="14451" article="a" name="Enchanted Tanker Helmet">
+		<attribute key="description" value="Health/Ki Regeneration +7000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="350" />
+		<attribute key="healthGain" value="7000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="7000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillShield" value="20" />
+		<attribute key="slotType" value="head" />
+	</item>
+	
+	<item id="14451" article="a" name="Enchanted Tanker Armor">
+		<attribute key="description" value="Health/Ki Regeneration +13000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="350" />
+		<attribute key="healthGain" value="13000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="13000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillAxe" value="10" />
+		<attribute key="skillSword" value="7" />
+		<attribute key="skillClub" value="7" />
+		<attribute key="skillDist" value="7" />
+		<attribute key="skillShield" value="30" />
+		<attribute key="absorbPercentAll" value="6"/>
+		<attribute key="slotType" value="body" />
+	</item>
+	
+	<item id="14451" article="a" name="Enchanted Tanker Legs">
+		<attribute key="description" value="Health/Ki Regeneration +13000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="350" />
+		<attribute key="healthGain" value="13000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="13000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillAxe" value="10" />
+		<attribute key="skillSword" value="7" />
+		<attribute key="skillClub" value="7" />
+		<attribute key="skillDist" value="7" />
+		<attribute key="skillShield" value="30" />
+		<attribute key="absorbPercentAll" value="6"/>
+		<attribute key="slotType" value="legs" />
+	</item>
+	
+	<item id="14451" article="a" name="Enchanted Tanker Boots">
+		<attribute key="description" value="Health/Ki Regeneration +12000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="350" />
+		<attribute key="healthGain" value="12000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="12000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillShield" value="25" />
+		<attribute key="slotType" value="feet" />
+	</item>
