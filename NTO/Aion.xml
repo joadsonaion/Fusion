@@ -120,3 +120,101 @@
 		<attribute key="skillShield" value="25" />
 		<attribute key="slotType" value="feet" />
 	</item>
+	
+	<!----- RINGS ----->
+	
+	<item id="13660" article="a" name="Enchanted Sannin Eye">
+		<attribute key="weight" value="700" />
+		<attribute key="absorbPercentAll" value="2"/>
+		<attribute key="magiclevelpoints" value="15" />
+		<attribute key="skillShield" value="100" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+	<item id="13660" article="a" name="Enchanted Rinnegan Eye">
+		<attribute key="weight" value="700" />
+		<attribute key="absorbPercentAll" value="3"/>
+		<attribute key="magiclevelpoints" value="20" />
+		<attribute key="skillShield" value="100" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+	<item id="13660" article="a" name="Mangekyou Sharingan Eterno">
+		<attribute key="weight" value="700" />
+		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="magiclevelpoints" value="13" />
+		<attribute key="skillShield" value="100" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+	<!----- ARMAS ----->
+	
+	<item id="13694" article="a" name="Espada de Totsuka">
+		<attribute key="weight" value="3500" />
+		<attribute key="defense" value="80" />
+		<attribute key="attack" value="100" />
+		<attribute key="weaponType" value="sword" />
+		<attribute key="extradef" value="1" />
+	</item>
+	
+	<item id="13684" article="a" name="Susanoo Bariusta">
+		<attribute key="weight" value="4000" />
+		<attribute key="weaponType" value="distance" />
+		<attribute key="ammoType" value="bolt" />
+		<attribute key="range" value="14" />
+		<attribute key="hitChance" value="100" />
+		<attribute key="attack" value="100" />
+	</item>
+	
+	<item id="13684" article="a" name="Rikkudou Cetro">
+		<attribute key="weight" value="4000" />
+		<attribute key="weaponType" value="distance" />
+		<attribute key="ammoType" value="bolt" />
+		<attribute key="range" value="14" />
+		<attribute key="hitChance" value="100" />
+		<attribute key="attack" value="120" />
+	</item>
+	
+	<item id="13694" article="a" name="Enchanted Sword">
+		<attribute key="weight" value="3500" />
+		<attribute key="defense" value="100" />
+		<attribute key="attack" value="150" />
+		<attribute key="weaponType" value="sword" />
+		<attribute key="extradef" value="1" />
+	</item>
+	
+	<item id="13950" article="a" name="Enchanted Gloves">
+		<attribute key="weight" value="7000" />
+		<attribute key="defense" value="100" />
+		<attribute key="attack" value="150" />
+		<attribute key="extradef" value="1" />
+		<attribute key="weaponType" value="club" />
+	</item>
+	
+	<item id="2436" article="a" name="Enchanted Staff">
+		<attribute key="weight" value="4000" />
+		<attribute key="weaponType" value="distance" />
+		<attribute key="ammoType" value="bolt" />
+		<attribute key="range" value="14" />
+		<attribute key="hitChance" value="100" />
+		<attribute key="attack" value="150" />
+	</item>
+	
+	
+	<!----- AMULETOS ----->
+	
+		<item id="13810" article="a" name="Enchanted Amulet">
+		<attribute key="weight" value="830" />
+		<attribute key="defense" value="150" />
+		<attribute key="absorbPercentAll" value="2"/>
+		<attribute key="magiclevelpoints" value="20" />
+		<attribute key="slotType" value="necklace" />
+	</item>
+	
+	<item id="13810" article="a" name="Kaguya Amulet">
+		<attribute key="weight" value="830" />
+		<attribute key="defense" value="120" />
+		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="magiclevelpoints" value="15" />
+		<attribute key="slotType" value="necklace" />
+	</item>
