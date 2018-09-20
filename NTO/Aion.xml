@@ -218,3 +218,128 @@
 		<attribute key="magiclevelpoints" value="15" />
 		<attribute key="slotType" value="necklace" />
 	</item>
+
+	<!----------- FREE-QUEST -------->
+	
+	<!-- King Power SET -->
+	
+	<item id="14451" article="a" name="King Power Helmet">
+		<attribute key="description" value="Health/Ki Regeneration +1400/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="60" />
+		<attribute key="healthGain" value="1400" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="1400" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="6" />
+		<attribute key="slotType" value="head" />
+	</item>
+	
+	<item id="14451" article="a" name="King Power Armor">
+		<attribute key="description" value="Health/Ki Regeneration +3200/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="60" />
+		<attribute key="healthGain" value="3200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="3200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="10" />
+		<attribute key="skillAxe" value="8" />
+		<attribute key="skillSword" value="8" />
+		<attribute key="skillClub" value="8" />
+		<attribute key="skillDist" value="8" />
+		<attribute key="skillShield" value="6" />
+		<attribute key="slotType" value="body" />
+	</item>
+	
+	<item id="14451" article="a" name="King Power Legs">
+		<attribute key="description" value="Health/Ki Regeneration +2400/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="60" />
+		<attribute key="healthGain" value="2400" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="2400" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="8" />
+		<attribute key="skillAxe" value="6" />
+		<attribute key="skillSword" value="6" />
+		<attribute key="skillClub" value="6" />
+		<attribute key="skillDist" value="6" />
+		<attribute key="skillShield" value="4" />
+		<attribute key="slotType" value="legs" />
+	</item>
+	
+	<item id="14451" article="a" name="King Power Boots">
+		<attribute key="description" value="Health/Ki Regeneration +1400/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="60" />
+		<attribute key="healthGain" value="1400" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="1400" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="8" />
+		<attribute key="slotType" value="feet" />
+	</item>
+
+	
+<!-- OoTsuki Tanker SET -->
+	
+	<item id="14451" article="a" name="OoTsuki Tanker Helmet">
+		<attribute key="description" value="Health/Ki Regeneration +2000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="200" />
+		<attribute key="healthGain" value="2000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="2000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillShield" value="2" />
+		<attribute key="slotType" value="head" />
+	</item>
+	
+	<item id="14451" article="a" name="OoTsuki Tanker Armor">
+		<attribute key="description" value="Health/Ki Regeneration +8000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="200" />
+		<attribute key="healthGain" value="8000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="8000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillAxe" value="4" />
+		<attribute key="skillSword" value="4" />
+		<attribute key="skillClub" value="4" />
+		<attribute key="skillDist" value="4" />
+		<attribute key="skillShield" value="15" />
+		<attribute key="absorbPercentAll" value="3"/>
+		<attribute key="slotType" value="body" />
+	</item>
+	
+	<item id="14451" article="a" name="OoTsuki Tanker Legs">
+		<attribute key="description" value="Health/Ki Regeneration +6000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="250" />
+		<attribute key="healthGain" value="6000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="6000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillAxe" value="4" />
+		<attribute key="skillSword" value="4" />
+		<attribute key="skillClub" value="4" />
+		<attribute key="skillDist" value="4" />
+		<attribute key="skillShield" value="15" />
+		<attribute key="absorbPercentAll" value="3"/>
+		<attribute key="slotType" value="legs" />
+	</item>
+	
+	<item id="14451" article="a" name="OoTsuki Tanker Boots">
+		<attribute key="description" value="Health/Ki Regeneration +5000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="200" />
+		<attribute key="healthGain" value="5000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="5000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="2" />
+		<attribute key="slotType" value="feet" />
+	</item>
+	
+	
