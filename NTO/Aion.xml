@@ -343,3 +343,403 @@
 	</item>
 	
 	
+	<!-- Desire SET -->
+	
+	<item id="14451" article="a" name="Desire Helmet">
+		<attribute key="description" value="Health/Ki Regeneration +2200/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="80" />
+		<attribute key="healthGain" value="2200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="2200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="8" />
+		<attribute key="slotType" value="head" />
+	</item>
+	
+	<item id="14451" article="a" name="Desire Armor">
+		<attribute key="description" value="Health/Ki Regeneration +4200/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="80" />
+		<attribute key="healthGain" value="4200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="4200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="12" />
+		<attribute key="skillAxe" value="12" />
+		<attribute key="skillSword" value="12" />
+		<attribute key="skillClub" value="12" />
+		<attribute key="skillDist" value="12" />
+		<attribute key="skillShield" value="8" />
+		<attribute key="slotType" value="body" />
+	</item>
+	
+	<item id="14451" article="a" name="Desire Legs">
+		<attribute key="description" value="Health/Ki Regeneration +3200/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="80" />
+		<attribute key="healthGain" value="3200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="3200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="8" />
+		<attribute key="skillAxe" value="8" />
+		<attribute key="skillSword" value="8" />
+		<attribute key="skillClub" value="8" />
+		<attribute key="skillDist" value="8" />
+		<attribute key="skillShield" value="6" />
+		<attribute key="slotType" value="legs" />
+	</item>
+	
+	<item id="14451" article="a" name="Desire Boots">
+		<attribute key="description" value="Health/Ki Regeneration +2200/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="80" />
+		<attribute key="healthGain" value="2200" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="2200" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="10" />
+		<attribute key="slotType" value="feet" />
+	</item>
+	
+	
+	<!-- OoTsuki Tanker SET -->
+	
+	<item id="14451" article="a" name="Tobi Mask">
+		<attribute key="description" value="Health/Ki Regeneration +5000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="250" />
+		<attribute key="healthGain" value="5000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="5000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="3" />
+		<attribute key="slotType" value="head" />
+	</item>
+	
+	<item id="14451" article="a" name="Yondaime Tunic">
+		<attribute key="description" value="Health/Ki Regeneration +10000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="250" />
+		<attribute key="healthGain" value="10000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="10000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillAxe" value="6" />
+		<attribute key="skillSword" value="6" />
+		<attribute key="skillClub" value="6" />
+		<attribute key="skillDist" value="6" />
+		<attribute key="skillShield" value="20" />
+		<attribute key="magiclevelpoints" value="2" />
+		<attribute key="absorbPercentAll" value="4"/>
+		<attribute key="slotType" value="body" />
+	</item>
+	
+	<item id="14451" article="a" name="Yondaime Legs">
+		<attribute key="description" value="Health/Ki Regeneration +8000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="250" />
+		<attribute key="healthGain" value="8000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="8000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillAxe" value="6" />
+		<attribute key="skillSword" value="6" />
+		<attribute key="skillClub" value="6" />
+		<attribute key="skillDist" value="6" />
+		<attribute key="skillShield" value="20" />
+		<attribute key="magiclevelpoints" value="2" />
+		<attribute key="absorbPercentAll" value="4"/>
+		<attribute key="slotType" value="legs" />
+	</item>
+	
+	<item id="14451" article="a" name="Yondaime Boots">
+		<attribute key="description" value="Health/Ki Regeneration +7000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="250" />
+		<attribute key="healthGain" value="7000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="7000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="3" />
+		<attribute key="slotType" value="feet" />
+	</item>
+	
+	
+	<!------ RINGS ---->
+	
+		<item id="13660" article="a" name="Amaterasu Element">
+		<attribute key="weight" value="700" />
+		<attribute key="defense" value="80" />
+		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="magiclevelpoints" value="12" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+		<item id="13660" article="a" name="Shukaku Eye">
+		<attribute key="weight" value="700" />
+		<attribute key="defense" value="80" />
+		<attribute key="magiclevelpoints" value="10" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+		<item id="13660" article="a" name="Kurama Eye">
+		<attribute key="weight" value="700" />
+		<attribute key="defense" value="80" />
+		<attribute key="magiclevelpoints" value="8" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+		<item id="13660" article="a" name="Kakuzu Mask">
+		<attribute key="weight" value="700" />
+		<attribute key="defense" value="80" />
+		<attribute key="magiclevelpoints" value="5" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+
+	<!----- ARMAS ------>
+	
+		<item id="13694" article="a" name="Suiton Sword">
+		<attribute key="weight" value="3500" />
+		<attribute key="defense" value="50" />
+		<attribute key="attack" value="70" />
+		<attribute key="weaponType" value="sword" />
+		<attribute key="extradef" value="1" />
+	</item>
+	
+		<item id="13694" article="a" name="Katon Sword">
+		<attribute key="weight" value="3500" />
+		<attribute key="defense" value="50" />
+		<attribute key="attack" value="70" />
+		<attribute key="weaponType" value="sword" />
+		<attribute key="extradef" value="1" />
+	</item>
+	
+		<item id="13694" article="a" name="Raiton Sword">
+		<attribute key="weight" value="3500" />
+		<attribute key="defense" value="50" />
+		<attribute key="attack" value="70" />
+		<attribute key="weaponType" value="sword" />
+		<attribute key="extradef" value="1" />
+	</item>
+	
+		<item id="13694" article="a" name="Doton Sword">
+		<attribute key="weight" value="3500" />
+		<attribute key="defense" value="50" />
+		<attribute key="attack" value="70" />
+		<attribute key="weaponType" value="sword" />
+		<attribute key="extradef" value="1" />
+	</item>
+	
+	<item id="13684" article="a" name="Fuuton Arch">
+		<attribute key="weight" value="4000" />
+		<attribute key="weaponType" value="distance" />
+		<attribute key="ammoType" value="bolt" />
+		<attribute key="range" value="14" />
+		<attribute key="hitChance" value="100" />
+		<attribute key="attack" value="80" />
+	</item>
+	
+	<!----- AMULETOS ------>
+	
+	<item id="13810" article="a" name="Brand of Curse">
+		<attribute key="weight" value="830" />
+		<attribute key="defense" value="100" />
+		<attribute key="magiclevelpoints" value="8" />
+		<attribute key="slotType" value="necklace" />
+	</item>
+	
+	<item id="13810" article="a" name="Fenix Amulet">
+		<attribute key="weight" value="830" />
+		<attribute key="defense" value="100" />
+		<attribute key="magiclevelpoints" value="12" />
+		<attribute key="slotType" value="necklace" />
+	</item>
+	
+	<!----- SHIELDS ----->
+	
+	<item id="13917" article="a" name="Incomplete Susanoo Shield">
+		<attribute key="weight" value="5800" />
+		<attribute key="defense" value="250" />
+		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="magiclevelpoints" value="12" />
+		<attribute key="skillShield" value="10" />
+		<attribute key="weaponType" value="shield" />
+	</item>
+	
+	<!--VIP QUEST -->
+	
+	<!-- Rikkudou SET -->
+	
+	<item id="14451" article="a" name="Rikkudou Helmet">
+		<attribute key="description" value="Health/Ki Regeneration +3000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="100" />
+		<attribute key="healthGain" value="3000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="3000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="10" />
+		<attribute key="slotType" value="head" />
+	</item>
+	
+	<item id="14451" article="a" name="Rikkudou Armor">
+		<attribute key="description" value="Health/Ki Regeneration +5000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="10" />
+		<attribute key="healthGain" value="5000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="5000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="15" />
+		<attribute key="skillAxe" value="15" />
+		<attribute key="skillSword" value="15" />
+		<attribute key="skillClub" value="15" />
+		<attribute key="skillDist" value="15" />
+		<attribute key="skillShield" value="10" />
+		<attribute key="slotType" value="body" />
+	</item>
+	
+	<item id="14451" article="a" name="Rikkudou Legs">
+		<attribute key="description" value="Health/Ki Regeneration +4000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="100" />
+		<attribute key="healthGain" value="4000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="4000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="12" />
+		<attribute key="skillAxe" value="10" />
+		<attribute key="skillSword" value="10" />
+		<attribute key="skillClub" value="10" />
+		<attribute key="skillDist" value="10" />
+		<attribute key="skillShield" value="10" />
+		<attribute key="slotType" value="legs" />
+	</item>
+	
+	<item id="14451" article="a" name="Rikkudou Boots">
+		<attribute key="description" value="Health/Ki Regeneration +3000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="100" />
+		<attribute key="healthGain" value="3000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="3000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="12" />
+		<attribute key="slotType" value="feet" />
+	</item>
+	
+	<!-- God of War SET -->
+	
+	<item id="14451" article="a" name="God of War Helmet">
+		<attribute key="description" value="Health/Ki Regeneration +6000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="300" />
+		<attribute key="healthGain" value="6000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="6000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="6" />
+		<attribute key="slotType" value="head" />
+	</item>
+	
+	<item id="14451" article="a" name="God of War Armor">
+		<attribute key="description" value="Health/Ki Regeneration +12000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="300" />
+		<attribute key="healthGain" value="12000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="12000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillAxe" value="8" />
+		<attribute key="skillSword" value="8" />
+		<attribute key="skillClub" value="8" />
+		<attribute key="skillDist" value="8" />
+		<attribute key="skillShield" value="25" />
+		<attribute key="absorbPercentAll" value="5"/>
+		<attribute key="slotType" value="body" />
+	</item>
+	
+	<item id="14451" article="a" name="God of War Legs">
+		<attribute key="description" value="Health/Ki Regeneration +9000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="250" />
+		<attribute key="healthGain" value="9000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="9000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="skillAxe" value="8" />
+		<attribute key="skillSword" value="8" />
+		<attribute key="skillClub" value="8" />
+		<attribute key="skillDist" value="8" />
+		<attribute key="skillShield" value="25" />
+		<attribute key="absorbPercentAll" value="5"/>
+		<attribute key="slotType" value="legs" />
+	</item>
+	
+	<item id="14451" article="a" name="God of War Boots">
+		<attribute key="description" value="Health/Ki Regeneration +10000/s" />
+		<attribute key="weight" value="2500" />
+		<attribute key="armor" value="300" />
+		<attribute key="healthGain" value="10000" />
+		<attribute key="healthTicks" value="1000" />
+		<attribute key="manaGain" value="10000" />
+		<attribute key="manaTicks" value="1000" />
+		<attribute key="magiclevelpoints" value="4" />
+		<attribute key="slotType" value="feet" />
+	</item>
+	
+	
+	<!----- RINGS ----->
+	
+	<item id="13660" article="a" name="Desire Ring">
+		<attribute key="weight" value="700" />
+		<attribute key="defense" value="90" />
+		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="magiclevelpoints" value="12" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+	<item id="13660" article="a" name="Dragon Fist Ring">
+		<attribute key="weight" value="700" />
+		<attribute key="defense" value="80" />
+		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="magiclevelpoints" value="14" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+	<item id="13660" article="a" name="God Ring">
+		<attribute key="weight" value="700" />
+		<attribute key="defense" value="90" />
+		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="magiclevelpoints" value="10" />
+		<attribute key="slotType" value="ring" />
+	</item>
+	
+	<!----- AMULETOS ----->
+	
+	
+	<item id="13810" article="a" name="Hell Amulet">
+		<attribute key="weight" value="830" />
+		<attribute key="defense" value="100" />
+		<attribute key="magiclevelpoints" value="10" />
+		<attribute key="slotType" value="necklace" />
+	</item>
+	
+	<item id="13810" article="a" name="Escaravelho Amulet">
+		<attribute key="weight" value="830" />
+		<attribute key="defense" value="100" />
+		<attribute key="magiclevelpoints" value="12" />
+		<attribute key="slotType" value="necklace" />
+	</item>
+	
+	<item id="13810" article="a" name="Gudoudama Amulet">
+		<attribute key="weight" value="830" />
+		<attribute key="defense" value="100" />
+		<attribute key="magiclevelpoints" value="14" />
+		<attribute key="absorbPercentAll" value="1"/>
+		<attribute key="slotType" value="necklace" />
+	</item>
+	
